@@ -112,7 +112,7 @@ EOF
 }
 
 create_release() {
-    url=https://api.github.com/repos/shekhawat2/RevancedYT/releases
+    url=https://api.github.com/repos/shekhawat2/Girrint/releases
     command="curl -s \
         -X POST \
         -H 'Accept: application/vnd.github+json' \
